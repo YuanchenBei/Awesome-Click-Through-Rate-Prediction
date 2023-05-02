@@ -38,3 +38,11 @@ This repository contains a curated list of papers on (or related to) click-throu
 | Deep Interest Network for Click-Through Rate Prediction | _KDD 2018_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219823) | N/A |
 
 ----
+
+### Survey
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Click-through Rate Prediction in Online Advertising: A Literature Review | _IPM 2022_ | [[PDF]](https://arxiv.org/pdf/2202.10462.pdf) | N/A |
+| Deep Learning for Click-Through Rate Estimation | _IJCAI 2019_ | [[PDF]](https://www.ijcai.org/proceedings/2021/0636.pdf) | N/A |
+
+
