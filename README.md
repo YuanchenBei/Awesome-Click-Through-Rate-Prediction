@@ -12,6 +12,8 @@ This repository contains a curated list of papers related to **click-through-rat
 ### Feature Interaction
 (WWW 2021) **FM2: Field-matrixed Factorization Machines for Recommender Systems** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449930) [[Code]](https://github.com/yahoo/FmFM)
 
+(IJCAI 2021) **A Dual Input-aware Factorization Machine for CTR Prediction** [[Paper]](https://www.ijcai.org/Proceedings/2020/0434.pdf)
+
 (CIKM 2019) **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357951) [[Code]](https://github.com/JiangShaoYin/FIGNN)
 
 (RecSys 2019) **FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043)
@@ -37,6 +39,8 @@ This repository contains a curated list of papers related to **click-through-rat
 ### Interest Modeling
 
 (CIKM 2023) **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3615180) [[Code]](https://github.com/YuanchenBei/NRCGI)
+
+(SIGIR 2022) **Deep Multi-Representational Item Network for CTR Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531845) [[Code]](https://github.com/alibaba/deep-multi-representational-item-network)
 
 (KDD 2019) **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666) [[Code]](https://github.com/UIC-Paper/MIMN)
 
