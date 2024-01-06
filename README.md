@@ -14,6 +14,8 @@ This repository contains a curated list of papers related to **click-through-rat
 
 (IJCAI 2021) **A Dual Input-aware Factorization Machine for CTR Prediction** [[Paper]](https://www.ijcai.org/Proceedings/2020/0434.pdf)
 
+(AAAI 2019) **Holographic Factorization Machines for Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4448/4326) 
+
 (CIKM 2019) **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357951) [[Code]](https://github.com/JiangShaoYin/FIGNN)
 
 (RecSys 2019) **FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043)
@@ -40,7 +42,13 @@ This repository contains a curated list of papers related to **click-through-rat
 
 (CIKM 2023) **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3615180) [[Code]](https://github.com/YuanchenBei/NRCGI)
 
+(SIGIR 2022) **Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer** [[Paper]](https://arxiv.org/pdf/2201.13311.pdf) [[Code]](https://github.com/qwerfdsaplking/F2R-HMT)
+
 (SIGIR 2022) **Deep Multi-Representational Item Network for CTR Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531845) [[Code]](https://github.com/alibaba/deep-multi-representational-item-network)
+
+(CIKM 2022) **Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/2306.10028.pdf)
+
+(CIKM 2020) **Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/2006.05639.pdf)
 
 (KDD 2019) **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666) [[Code]](https://github.com/UIC-Paper/MIMN)
 
@@ -52,7 +60,7 @@ This repository contains a curated list of papers related to **click-through-rat
 
 
 ----
-### Survey
+### Related Survey
 (IPM 2022) **Click-through Rate Prediction in Online Advertising: A Literature Review** [[Paper]](https://arxiv.org/pdf/2202.10462.pdf)
 
 (IJCAI 2019) **Deep Learning for Click-Through Rate Estimation** [[Paper]](https://www.ijcai.org/proceedings/2021/0636.pdf)
