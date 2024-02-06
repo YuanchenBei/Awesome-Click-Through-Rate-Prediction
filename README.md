@@ -40,6 +40,8 @@ This repository contains a curated list of papers related to **click-through-rat
 
 ### Interest Modeling
 
+(WWW 2024) **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems** [[Paper]](https://arxiv.org/pdf/2401.14939.pdf) [[Code]](https://github.com/YuanchenBei/MacGNN)
+
 (CIKM 2023) **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3615180) [[Code]](https://github.com/YuanchenBei/NRCGI)
 
 (SIGIR 2022) **Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer** [[Paper]](https://arxiv.org/pdf/2201.13311.pdf) [[Code]](https://github.com/qwerfdsaplking/F2R-HMT)
