@@ -54,6 +54,8 @@ This repository contains a curated list of papers related to **click-through-rat
 
 (KDD 2019) **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666) [[Code]](https://github.com/UIC-Paper/MIMN)
 
+(SIGIR 2019) **Graph Intention Network for Click-through Rate Prediction in Sponsored Search** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331283)
+
 (IJCAI 2019) **Deep Session Interest Network for Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/1905.06482.pdf) [[Code]](https://github.com/shenweichen/DSIN)
 
 (AAAI 2019) **Deep Interest Evolution Network for Click-Through Rate Prediction** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4545/4423) [[Code]](https://github.com/mouna99/dien)
